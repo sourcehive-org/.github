@@ -21,11 +21,6 @@
 | 🧭 **Strategic consulting** | Strategies that line up business goals with open-source principles. |
 | 🤝 **Community engagement** | Practical ways to work with open-source communities for lasting collaboration and innovation. |
 
-## ⚡ Events
-
-- **NS4W Hackathon**: [register here](https://www.sourcehive.org/hackathon-registration)
-- **Code Storm Asia**: [learn more](https://www.sourcehive.org/code-storm-asia)
-
 ## 🌍 Join the borderless community of coders
 
 Want to partner with SourceHive or bring it to your city? Get in touch at **[sourcehive.org](https://www.sourcehive.org)**.
