@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & ideas
+    url: https://github.com/orgs/sourcehive-org/discussions
+    about: Ask questions and share ideas with the SourceHive community.
+  - name: 🌐 Partner with SourceHive
+    url: https://www.sourcehive.org
+    about: Partnerships, events and bringing SourceHive to your city.
