@@ -14,7 +14,7 @@
 
 ## 🍯 What we do
 
-| | |
+| Service | What it means for you |
 |---|---|
 | 🎓 **Open-source training** | Sessions with thought leaders and industry experts on the principles and practices of open source. |
 | 📜 **Open-source policy** | Help designing and rolling out open-source policies that fit an organisation's goals and values. |
